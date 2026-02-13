@@ -27,3 +27,4 @@ heroi1.attack(); // Saída: O guerreiro Gandalf atacou usando espada
 
 heroi2222 = new hero("Legolas", 2931, "arqueiro");
 heroi2222.attack(); // Saída: O arqueiro Legolas atacou usando arco e flecha
+
